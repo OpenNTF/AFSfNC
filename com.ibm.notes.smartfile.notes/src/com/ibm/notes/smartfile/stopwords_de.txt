@@ -1,0 +1,237 @@
+#  A German stop word list. Comments begin with #. Each stop
+#  word is at the start of a line.
+#  The number of forms in this list is reduced significantly by passing it
+#  through the German stemmer.
+#  Source: http://snowball.tartarus.org/algorithms/german/stop.txt
+aber           #  but
+alle           #  all
+allem
+allen
+aller
+alles
+also           #  so
+als            #  than, as
+am             #  an + dem
+an             #  at
+andere
+anderem
+anderen
+anderer
+anderes
+anderm
+andern
+ander          #  other
+anderr
+anders
+auch           #  also
+auf            #  on
+aus            #  out of
+bei            #  by
+bin            #  am
+bist           #  art
+bis            #  until
+damit          #  with it
+dann           #  then
+das
+dass
+dasselbe
+daß            #  that
+da             #  there
+dazu           #  to that
+deine
+deinem
+deinen
+deiner
+deines
+dein           #  thy
+dem
+demselben
+den
+denn           #  because
+denselben
+derer          #  of those
+derselben
+derselbe       #  the same
+der            #  the
+des
+desselben
+dessen         #  of him
+dich           #  thee
+die
+diese
+dieselbe
+dieselben
+diesem
+diesen
+dieser
+dieses
+dies           #  this
+dir            #  to thee
+doch           #  (several meanings)
+dort           #  (over) there
+durch          #  through
+du             #  thou
+ein            #  a
+eine
+einem
+einen
+einer
+eines
+einige
+einigem
+einigen
+einiger
+einiges
+einig          #  some
+einmal         #  once
+er             #  he
+es             #  it
+etwas          #  something
+euch           #  to you
+euer           #  your
+eure
+eurem
+euren
+eurer
+eures
+für            #  for
+gegen          #  towards
+gewesen        #  p.p. of sein
+habe           #  have
+haben          #  have
+hab            #  have
+hat            #  has
+hatte          #  had
+hatten         #  had
+hier           #  here
+hinter         #  behind
+hin            #  there
+ich            #  I
+ihm            #  to him
+ihnen          #  to them
+ihn            #  him
+ihre
+ihrem
+ihren
+ihrer
+ihres
+ihr            #  you, to her
+im             #  in + dem
+indem          #  while
+in             #  in
+ins            #  in + das
+ist            #  is
+jede           #  each, every
+jedem
+jeden
+jeder
+jedes
+jenem
+jenen
+jener
+jenes
+jene           #  that
+jetzt          #  now
+kann           #  can
+keine
+keinem
+keinen
+keiner
+keines
+kein           #  no
+können         #  can
+könnte         #  could
+machen         #  do
+manchem
+manchen
+mancher
+manches
+manche         #  some, many a
+man            #  one
+meine
+meinem
+meinen
+meiner
+meines
+mein           #  my
+mich           #  me
+mir            #  to me
+mit            #  with
+muss           #  must
+musste         #  had to
+nach           #  to(wards)
+nicht          #  not
+nichts         #  nothing
+noch           #  still, yet
+nun            #  now
+nur            #  only
+ob             #  whether
+oder           #  or
+ohne           #  without
+sehr           #  very
+seine
+seinem
+seinen
+seiner
+seines
+sein           #  his
+selbst         #  self
+sich           #  herself
+sie            #  they, she
+sind           #  are
+solchem
+solchen
+solcher
+solches
+solche         #  such
+soll           #  shall
+sollte         #  should
+sondern        #  but
+sonst          #  else
+so             #  so
+über           #  over
+um             #  about, around
+und            #  and
+unse
+unsem
+unsen
+unser
+unses
+uns            #  us
+unter          #  under
+viel           #  much
+vom            #  von + dem
+von            #  from
+vor            #  before
+während        #  while
+waren          #  were
+warst          #  wast
+war            #  was
+was            #  what
+weg            #  away, off
+weil           #  because
+weiter         #  further
+welchem
+welchen
+welcher
+welches
+welche         #  which
+wenn           #  when
+werden         #  will
+werde          #  will
+wieder         #  again
+wie            #  how
+will           #  want
+wird           #  will
+wirst          #  willst
+wir            #  we
+wollen         #  want
+wollte         #  wanted
+wo             #  where
+würden         #  would
+würde          #  would
+zum            #  zu + dem
+zur            #  zu + der
+zu             #  to
+zwar           #  indeed
+zwischen       #  between
