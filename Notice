@@ -1,0 +1,13 @@
+Automatic Filing Suggestions for Notes Clients (AFSfNC)
+(c) Copyright IBM Corporation 2014
+
+This product includes software developed for
+OpenNTF (http://www.OpenNTF.Org/).
+
+This product is licensed under the terms of the Apache 2.0 license.
+
+The product includes the following third party packages:
+
+The German and English stopword lists are from the Snowball Stemmers.
+Licensed under BSD
+Available from http://snowball.tartarus.org/algorithms/	
